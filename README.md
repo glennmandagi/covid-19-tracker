@@ -1,4 +1,4 @@
-# Covid-19 Tracker
+# Covid Tracker
 
 Web that track Covid 19 cases globally and per country
 
